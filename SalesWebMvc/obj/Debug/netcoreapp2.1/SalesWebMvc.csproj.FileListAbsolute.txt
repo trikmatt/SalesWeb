@@ -34,4 +34,8 @@ C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebM
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
