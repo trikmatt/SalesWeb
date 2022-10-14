@@ -39,3 +39,4 @@ C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebM
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Matheus do Valle\Desktop\Unit of work Design Pattern\SalesWeb\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
