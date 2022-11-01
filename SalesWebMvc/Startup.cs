@@ -15,6 +15,7 @@ using SalesWebMvc.Data;
 using SalesWebMvc.Services;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
+using SalesWebMvc.Services.Exceptions;
 
 namespace SalesWebMvc
 {
@@ -46,7 +47,7 @@ namespace SalesWebMvc
             services.AddScoped<SeedingService>();
             services.AddScoped<SellerService>();
             services.AddScoped<DepartmentService>();
-
+            services.AddScoped<SalesRecordService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
