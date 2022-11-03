@@ -44,7 +44,7 @@ namespace SalesWebMvc.Services
             }
             catch(DbUpdateException e)
             {
-                throw new IntegrityException("Can't delete seller becouse he/she has seles.");
+                throw new IntegrityException("Can't delete seller because he/she has seles.");
             }
         }
 
